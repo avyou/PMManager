@@ -9,6 +9,7 @@ PMManager
 当发现监控中进程被意外关闭时可以自动开启。同时也可以启动，结束，重启进程。 
 
 
+
 当前版本：1.0 
 
 开发语言： python、wxpython 
@@ -22,6 +23,7 @@ PMManager
 帮助文档：https://github.com/avyou/PMManager/blob/master/doc/help.md
 
 二进制包下载：http://pan.baidu.com/share/link?shareid=1337745319&uk=654434961
+
 
 作者：赵子发(avyou)
 
