@@ -13,11 +13,15 @@ PMManager
 
 开发语言： python、wxpython 
 
+运行平台：windows
+
 发布地址：https://github.com/avyou/PMManager
 
 版权：GPL 
 
 帮助文档：https://github.com/avyou/PMManager/blob/master/doc/help.md
+
+二进制包：
 
 作者：赵子发(avyou)
 
