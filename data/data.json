@@ -1,0 +1,62 @@
+{
+  "1": {
+    "status": "", 
+    "name": "程序1", 
+    "runAs": 1, 
+    "note": "测试数据1", 
+    "programe": "logtest.exe", 
+    "processNum": 2, 
+    "kid": "1", 
+    "operator": "等于", 
+    "logfile": "", 
+    "monitor": true
+  }, 
+  "3": {
+    "status": "", 
+    "name": "程序3", 
+    "runAs": 1, 
+    "note": "测试数据3", 
+    "programe": "D:\\all_source\\python\\scape\\logtest.exe", 
+    "processNum": 2, 
+    "kid": "3", 
+    "operator": "等于", 
+    "logfile": "D:\\all_source\\python\\scape\\sdd.txt", 
+    "monitor": false
+  }, 
+  "2": {
+    "status": "", 
+    "name": "程序2", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据2", 
+    "programe": "C:\\Windows\\System32\\notepad.exe", 
+    "processNum": 1, 
+    "operator": "大于或等于", 
+    "logfile": "main1.log", 
+    "kid": "2"
+  }, 
+  "5": {
+    "status": "", 
+    "name": "程序5", 
+    "runAs": 1, 
+    "note": "测试数据5", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "5", 
+    "operator": "等于", 
+    "logfile": "c:\\log5.log", 
+    "monitor": false
+  }, 
+  "4": {
+    "status": "", 
+    "name": "程序4", 
+    "runAs": 1, 
+    "note": "测试数据4", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "4", 
+    "operator": "等于", 
+    "logfile": "c:\\log4.log", 
+    "monitor": true
+  }
+}

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+</head>
+
+<body>
+<h3><strong>使用帮助</strong></h3>
+<p>&nbsp;</p>
+<p>版本： PMManager v1.0
+</p>
+<p><strong>一、程序基本结构</strong></p>
+<p>打开PMManager 文本夹，</p>
+<p><img src="doc_img/s1.jpg" width="268" height="128" /></p>
+<p><img src="doc_img/s2.jpg" width="256" height="27" /></p>
+<p><img src="doc_img/s3.jpg" width="250" height="25" /></p>
+<p>&nbsp;</p>
+<p><strong>一、基本使用</strong></p>
+<p><strong>1.主界面</strong></p>
+<p><img src="doc_img/main.jpg" alt="" width="908" height="700" /></p>
+<p><strong>2.添加项目</strong></p>
+<p>通过菜单，文件---&gt;添加项目，或者直接工具栏，添加项目</p>
+<p><img src="doc_img/add.jpg" width="403" height="373" /></p>
+<p><strong>选项说明</strong>：</p>
+<p>程序名称：输入添加项目的名称，不能留空</p>
+<p>程序路径：输入运行程序的路径，路径必须有效，不能为空</p>
+<p>参数或文件：运行程序的参数，如果没有可以不填<br />
+</p>
+<p>启动方式：</p>
+<p>隐藏进程窗口，也就是运行的程序不会显示窗口界面，但它是运行的。可以用任务管理器查看到进程。<br />
+  相反，就是显示窗口。（注意，运行中的程序是不可以更改启动方式的，只有关闭进程后才能更改）<br />
+</p>
+<p>监控进程数：条件有&quot;等于&quot;、&quot;小于&quot;、&quot;大于&quot;、&quot;大于或等于&quot;、&quot;小于或等于&quot;、&quot;不等于&quot;，进程数可以自己选择。<br />
+  例如：我们需要监控的程序，它在运行时只有两个进程，那么就填&quot;等于&quot;2。<br />
+  像Chrome 浏览器，打开后会有很多个进程，可以填&quot;大于&quot;2.<br />
+</p>
+<p>开启监控：是否开启监控(可有开启监控，主窗口列表上的&quot;状态&quot;才会显示&quot;运行中&quot;或&quot;未运行&quot;，未开启的话就为空)<br />
+</p>
+<p>备注：可以随意填写自己的一些说明内容</p>
+<p>&nbsp;</p>
+<p><strong>3.编辑项目</strong></p>
+<p>选中主窗口的项目，然后 &quot;菜单栏&quot; 或 &quot;工具栏&quot;---&gt;&quot;编辑项目&quot;。</p>
+<p>或者直接双击项目，进入编辑状态</p>
+<p><strong>4.删除项目</strong></p>
+<p>选中主窗口需要删除的项目，然后 &quot;菜单栏&quot; 或 &quot;工具栏&quot;---&gt;&quot;删除项目&quot;</p>
+<p><strong>5.数据导出</strong></p>
+<p>&quot;菜单栏&quot;---&gt;&quot;导出数据&quot; ---&gt; 出现对话框，选择需要导出的项目，选择导出文件的位置，&quot;确定&quot;即可。</p>
+<p><img src="doc_img/outdata.jpg" width="406" height="415" /></p>
+<p><strong>6.数据导入</strong></p>
+<p>&quot;菜单栏&quot;---&gt; &quot;导入数据&quot; ---&gt;选择导入的文件，确定即可。</p>
+<p><strong>二、设置</strong></p>
+<p>&quot;菜单栏&quot;---&gt;&quot;设置&quot;</p>
+<p><strong>1.基本配置</strong></p>
+<p>未使用</p>
+<p><strong>2.进程监控</strong></p>
+<p>检测进程运行状态的间隔时间：也就是相隔多少时间，对进程的运行状态进行一次检测，来判断进程是否被导常关闭。</p>
+<p>一般设置10-60秒之间。</p>
+<p>数据文件：保存所有项目数据的文件。</p>
+<p><img src="doc_img/mon.jpg" width="584" height="391" /></p>
+<p><strong>3.系统资源</strong></p>
+<p>在&quot;状态栏&quot;上显示 CPU、内存的监控信息。</p>
+<p>(注意：启用或关闭CPU和内存在状态栏上显示的生效时间，是上一次设定它们间隔时间，</p>
+<p>例如，上一次设定CPU监控间隔时间是180秒，那要等刚好过3分钟后才会生效）</p>
+<p><img src="doc_img/sys.jpg" width="600" height="410" /></p>
+<p><strong>4.日志配置</strong></p>
+<p>1）如果要&quot;启用控制台信息输出&quot; 必须 &quot;启用文件日志输出&quot;</p>
+<p>2）日志文件可以设定保存多少份，大小超过多少M做一次轮循。</p>
+<p>3）信息控制台，可以指定超过多少字节做一次清屏。</p>
+<p>4）这里的日志级别分别有5项，他们从高到低的关系为：critical &gt; error &gt; warning &gt; info &gt; debug 。</p>
+<p>低于指定级别的日志消息将会被忽略。</p>
+<p>例如，选择 &quot;info&quot; 级别后，因为 debug 比 info 的级别低，所以debug 级别的日志都不会显示。高于</p>
+<p>info 的 waring、error、critical 级别都会显示。</p>
+<p><img src="doc_img/log.jpg" width="600" height="410" /></p>
+<p>&nbsp;</p>
+<p><strong>三、使用实例</strong></p>
+<p>添加一个监控程序：</p>
+<p><img src="doc_img/add_ex.jpg" alt="" width="469" height="483" /></p>
+<p><img src="doc_img/add_ex2.jpg" alt="" width="824" height="273" /></p>
+<p>&nbsp;</p>
+<p>如果要批量添加多个监控项目，可以使用notepad++，以json 格式打开数据文件进行编辑，</p>
+<p>不过要注意不要输错，否则程序可能不能运行。</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
