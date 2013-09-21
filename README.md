@@ -21,7 +21,7 @@ PMManager
 
 帮助文档：https://github.com/avyou/PMManager/blob/master/doc/help.md
 
-二进制包：http://pan.baidu.com/share/link?shareid=1329587365&uk=654434961
+二进制包下载：http://pan.baidu.com/share/link?shareid=1337745319&uk=654434961
 
 作者：赵子发(avyou)
 
