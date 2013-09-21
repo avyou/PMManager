@@ -45,10 +45,10 @@ cellpadding="0">
 <br>
 <p>当前版本：1.0 </p>
 <p>开发语言： python、wxpython </p>
-<p>发布地址：<a href="https://github.com/avyou">https://github.com/avyou</a></p>
+<p>发布地址：<a href="https://github.com/avyou/PMManager">https://github.com/avyou/PMManager</a></p>
 <p>版权：GPL </p>
 <p><font size="3">联系：avyou55@gmail.com</font></p>
-<p>第一次完成于2013-8，广州</p>
+<p>2013-8，广州</p>
 </body>
 </html>
 '''
