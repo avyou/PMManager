@@ -8,11 +8,8 @@
 
 打开PMManager 文本夹，
 
-![](
-[https://github.com/avyou/PMManager/blob/master/doc/doc_img/s1.jpg])
 
-
-
+![github](https://github.com/avyou/PMManager/blob/master/doc/doc_img/s1.jpg "github")
 
  
 
