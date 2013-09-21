@@ -17,7 +17,7 @@ PMManager
 
 版权：GPL 
 
-帮助文档：https://github.com/avyou/PMManager/help.md
+帮助文档：https://github.com/avyou/PMManager/doc/help.md
 
 作者：赵子发(avyou)
 
