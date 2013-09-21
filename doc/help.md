@@ -11,19 +11,22 @@
 
 ![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/s1.jpg)
 
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/s2.jpg)
+
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/s3.jpg)
  
 
 一、基本使用
 
 1.主界面
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/main.jpg)
 
 2.添加项目
 
 通过菜单，文件--->添加项目，或者直接工具栏，添加项目
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/add.jpg)
 
 选项说明：
 
@@ -66,7 +69,7 @@
 
 "菜单栏"--->"导出数据" ---> 出现对话框，选择需要导出的项目，选择导出文件的位置，"确定"即可。
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/outdata.jpg)
 
 6.数据导入
 
@@ -88,7 +91,7 @@
 
 数据文件：保存所有项目数据的文件。
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/mon.jpg)
 
 3.系统资源
 
@@ -98,7 +101,7 @@
 
 例如，上一次设定CPU监控间隔时间是180秒，那要等刚好过3分钟后才会生效）
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/sys.jpg)
 
 4.日志配置
 
@@ -116,7 +119,7 @@
 
 info 的 waring、error、critical 级别都会显示。
 
-
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/log.jpg)
 
  
 
@@ -125,10 +128,10 @@ info 的 waring、error、critical 级别都会显示。
 添加一个监控程序：
 
 
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/add_ex.jpg)
 
 
-
- 
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/add_ex2.jpg)
 
 如果要批量添加多个监控项目，可以使用notepad++，以json 格式打开数据文件进行编辑，
 
