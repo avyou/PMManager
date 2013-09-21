@@ -9,7 +9,7 @@
 打开PMManager 文本夹，
 
 
-![Image text](http://github.com/avyou/PMManager/raw/master/doc_img/s1.jpg)
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/s1.jpg)
 
  
 
