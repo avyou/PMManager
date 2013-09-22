@@ -34,6 +34,8 @@ ID_SHOW_WIN = 1025
 ID_LOG_FILE = 1026
 ID_OPERATOR = 1027
 
+
+
 operatorDict = {
     u"等于": "=",
     u"小于": "<",
@@ -117,6 +119,12 @@ MSG_MAX = CONF_DICT["log"]["msg_max"]
 
 
 level = LEVELS.get(FILE_LOG_LEVEL,logging.NOTSET)
+
+if os.path.exists(os.path.dirname(_filedata)) is False:
+    os.mkdir(os.path.dirname(_filedata))
+
+if os.path.exists(os.path.dirname(LOGFILE)) is False:
+    os.mkdir(os.path.dirname(LOGFILE))
 
 logger = logging.getLogger("ProMonitor")
 handler = logging.handlers.RotatingFileHandler(LOGFILE,maxBytes=LOG_MAX_BYTES,backupCount=BACKUP_COUNT,)

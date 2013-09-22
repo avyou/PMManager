@@ -4,15 +4,16 @@ import wx
 import os
 #import wx.aui
 #import time
-import idDefine as gen
-import LogOutput
+
 from ObjectListView import ObjectListView, ColumnDefn
 from dataList import DataHandle
 from eventHandle import EventHandle,EventSettingMenuAndLog
 from monitorRun import MonitorPro
 from  LogOutput import LogConsoleHandler
+import LogOutput
 import  LogOutput as LoadLog
 import logging
+import idDefine as gen
 from  sysInformation import SysInfo
 #from wx.lib.wordwrap import wordwrap
 from SettingData import HandleSetting
