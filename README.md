@@ -29,7 +29,7 @@ PMManager
 
 联系：avyou55@gmail.com 
 
-主界面：
+程序主界面：
 
 ![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/main.jpg)
 
