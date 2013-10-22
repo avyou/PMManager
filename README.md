@@ -29,6 +29,9 @@ PMManager
 
 联系：avyou55@gmail.com 
 
+主界面：
+
+![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/main.jpg)
 
 这是我学python半年来写的第二个小程序，现在把源码拿出来与大家分享。
 
