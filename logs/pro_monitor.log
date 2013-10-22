@@ -1,0 +1,1665 @@
+2013-09-22 09:28:38,187 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-22 09:28:38,190 - ProMonitor - INFO - 加载下边框架面板
+2013-09-22 09:28:38,213 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-22 09:28:38,213 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-22 09:28:38,216 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:28:38,223 - ProMonitor - INFO - 加载消息控制台
+2013-09-22 09:28:38,223 - ProMonitor - WARNING - 初始化控制台
+2013-09-22 09:28:38,224 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-22 09:28:38,226 - ProMonitor - INFO - 加载日志控制面板
+2013-09-22 09:28:38,234 - ProMonitor - INFO - 加载菜单
+2013-09-22 09:28:38,240 - ProMonitor - INFO - 加载工具栏
+2013-09-22 09:28:38,256 - ProMonitor - INFO - 加载状态栏
+2013-09-22 09:28:38,260 - ProMonitor - INFO - 加载监控
+2013-09-22 09:28:38,395 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:28:38,483 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:28:38,707 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:28:38,785 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:28:38,786 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:28:38,786 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:28:58,846 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:28:58,914 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:28:59,111 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:28:59,174 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:28:59,176 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:28:59,176 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:29:19,273 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:29:19,345 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:29:19,562 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:29:19,634 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:29:19,634 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:29:19,635 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:29:39,742 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:29:39,815 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:29:40,028 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:29:40,098 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:29:40,098 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:29:40,099 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:30:00,197 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:30:00,269 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:30:00,479 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:30:00,548 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:30:00,549 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:30:00,549 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:30:20,647 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:30:20,726 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:30:20,964 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:30:21,045 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:30:21,045 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:30:21,046 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:30:41,164 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:30:41,243 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:30:41,473 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:30:41,549 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:30:41,549 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:30:41,549 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-22 09:31:01,651 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-22 09:31:01,736 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-22 09:31:01,979 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-22 09:31:02,059 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-22 09:31:02,059 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-22 09:31:02,059 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:37:52,134 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-23 20:37:52,157 - ProMonitor - INFO - 加载下边框架面板
+2013-09-23 20:37:52,190 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-23 20:37:52,190 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:37:52,220 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:37:52,233 - ProMonitor - INFO - 加载消息控制台
+2013-09-23 20:37:52,236 - ProMonitor - WARNING - 初始化控制台
+2013-09-23 20:37:52,237 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:37:52,240 - ProMonitor - INFO - 加载日志控制面板
+2013-09-23 20:37:52,256 - ProMonitor - INFO - 加载菜单
+2013-09-23 20:37:52,265 - ProMonitor - INFO - 加载工具栏
+2013-09-23 20:37:52,375 - ProMonitor - INFO - 加载状态栏
+2013-09-23 20:37:52,388 - ProMonitor - INFO - 加载监控
+2013-09-23 20:37:52,542 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:37:52,647 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:37:52,734 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-09-23 20:37:52,994 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:37:53,082 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:37:53,084 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:37:53,085 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:37:55,257 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:38:13,233 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:38:13,378 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:38:13,621 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:38:13,706 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:38:13,707 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:38:13,707 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:38:33,859 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:38:33,950 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:38:34,188 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:38:34,266 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:38:34,266 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:38:34,267 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:38:54,375 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:38:54,467 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:38:54,710 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:38:54,790 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:38:54,792 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:38:54,792 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:39:14,936 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:39:15,036 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:39:15,275 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:39:15,355 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:39:15,355 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:39:15,355 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:39:29,638 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-23 20:39:29,644 - ProMonitor - INFO - 加载下边框架面板
+2013-09-23 20:39:29,664 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-23 20:39:29,664 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:39:29,665 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:39:29,674 - ProMonitor - INFO - 加载消息控制台
+2013-09-23 20:39:29,676 - ProMonitor - WARNING - 初始化控制台
+2013-09-23 20:39:29,676 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:39:29,677 - ProMonitor - INFO - 加载日志控制面板
+2013-09-23 20:39:29,691 - ProMonitor - INFO - 加载菜单
+2013-09-23 20:39:29,698 - ProMonitor - INFO - 加载工具栏
+2013-09-23 20:39:29,717 - ProMonitor - INFO - 加载状态栏
+2013-09-23 20:39:29,723 - ProMonitor - INFO - 加载监控
+2013-09-23 20:39:29,828 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:39:29,924 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:39:30,165 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:39:30,247 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:39:30,249 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:39:30,250 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:39:31,969 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:39:50,357 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:39:50,437 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:39:50,673 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:39:50,752 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:39:50,753 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:39:50,753 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:40:10,864 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:40:10,947 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:40:11,188 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:40:11,286 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:40:11,288 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:40:11,289 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:40:23,806 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-23 20:40:23,811 - ProMonitor - INFO - 加载下边框架面板
+2013-09-23 20:40:23,834 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-23 20:40:23,834 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:40:23,835 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:40:23,839 - ProMonitor - INFO - 加载消息控制台
+2013-09-23 20:40:23,842 - ProMonitor - WARNING - 初始化控制台
+2013-09-23 20:40:23,842 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:40:23,842 - ProMonitor - INFO - 加载日志控制面板
+2013-09-23 20:40:23,852 - ProMonitor - INFO - 加载菜单
+2013-09-23 20:40:23,858 - ProMonitor - INFO - 加载工具栏
+2013-09-23 20:40:23,875 - ProMonitor - INFO - 加载状态栏
+2013-09-23 20:40:23,880 - ProMonitor - INFO - 加载监控
+2013-09-23 20:40:23,982 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:40:24,075 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:40:24,318 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:40:24,401 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:40:24,403 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:40:24,404 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:40:26,023 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:40:44,503 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:40:44,586 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:40:44,834 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:40:44,914 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:40:44,915 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:40:44,917 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:41:05,065 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:41:05,174 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:41:05,440 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:41:05,526 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:41:05,529 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:41:05,529 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:41:25,640 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:41:25,726 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:41:25,983 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:41:26,069 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:41:26,071 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:41:26,072 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:41:46,186 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:41:46,270 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:41:46,519 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:41:46,605 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:41:46,608 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:41:46,608 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:42:06,733 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:42:06,819 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:42:07,069 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:42:07,155 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:42:07,157 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:42:07,158 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:42:27,283 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:42:27,378 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:42:27,638 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:42:27,724 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:42:27,727 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:42:27,727 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:42:47,842 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:42:47,928 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:42:48,184 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:42:48,272 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:42:48,275 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:42:48,275 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:43:08,394 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:43:08,483 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:43:08,740 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:43:08,826 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:43:08,828 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:43:08,828 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:43:28,930 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:43:29,019 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:43:29,278 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:43:29,365 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:43:29,368 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:43:29,368 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:43:49,493 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:43:49,582 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:43:49,844 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:43:49,930 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:43:49,934 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:43:49,934 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:44:10,039 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:44:10,128 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:44:10,380 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:44:10,466 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:44:10,469 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:44:10,469 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:44:30,592 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:44:30,678 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:44:30,928 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:44:31,013 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:44:31,015 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:44:31,016 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:44:51,128 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:44:51,214 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:44:51,467 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:44:51,553 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:44:51,555 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:44:51,556 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:45:11,673 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:45:11,759 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:45:12,015 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:45:12,104 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:45:12,107 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:45:12,107 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:45:32,233 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:45:32,322 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:45:32,584 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:45:32,673 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:45:32,674 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:45:32,676 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:45:51,934 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-23 20:45:51,940 - ProMonitor - INFO - 加载下边框架面板
+2013-09-23 20:45:51,964 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-23 20:45:51,966 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:45:51,967 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:45:51,973 - ProMonitor - INFO - 加载消息控制台
+2013-09-23 20:45:51,974 - ProMonitor - WARNING - 初始化控制台
+2013-09-23 20:45:51,976 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:45:51,976 - ProMonitor - INFO - 加载日志控制面板
+2013-09-23 20:45:51,986 - ProMonitor - INFO - 加载菜单
+2013-09-23 20:45:51,990 - ProMonitor - INFO - 加载工具栏
+2013-09-23 20:45:52,006 - ProMonitor - INFO - 加载状态栏
+2013-09-23 20:45:52,012 - ProMonitor - INFO - 加载监控
+2013-09-23 20:45:52,122 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:45:52,220 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:45:52,480 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:45:52,569 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:45:52,571 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:45:52,572 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:45:54,394 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:46:12,691 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:46:12,779 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:46:13,029 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:46:13,111 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:46:13,111 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:46:13,112 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:46:33,207 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:46:33,290 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:46:33,535 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:46:33,615 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:46:33,617 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:46:33,617 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:46:53,727 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:46:53,812 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:46:54,063 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:46:54,147 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:46:54,147 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:46:54,148 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:47:14,262 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:47:14,345 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:47:14,589 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:47:14,674 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:47:14,674 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:47:14,674 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:47:34,759 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:47:34,838 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:47:35,076 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:47:35,155 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:47:35,157 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:47:35,157 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:47:55,247 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:47:55,331 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:47:55,596 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:47:55,681 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:47:55,683 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:47:55,683 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:48:15,799 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:48:15,881 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:48:16,119 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:48:16,200 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:48:16,201 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:48:16,201 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:48:36,306 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:48:36,392 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:48:36,638 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:48:36,720 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:48:36,720 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:48:36,720 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:48:54,503 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-23 20:48:54,507 - ProMonitor - INFO - 加载下边框架面板
+2013-09-23 20:48:54,532 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-23 20:48:54,532 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:48:54,535 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:48:54,542 - ProMonitor - INFO - 加载消息控制台
+2013-09-23 20:48:54,545 - ProMonitor - WARNING - 初始化控制台
+2013-09-23 20:48:54,546 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:48:54,546 - ProMonitor - INFO - 加载日志控制面板
+2013-09-23 20:48:54,559 - ProMonitor - INFO - 加载菜单
+2013-09-23 20:48:54,566 - ProMonitor - INFO - 加载工具栏
+2013-09-23 20:48:54,585 - ProMonitor - INFO - 加载状态栏
+2013-09-23 20:48:54,589 - ProMonitor - INFO - 加载监控
+2013-09-23 20:48:54,694 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:48:54,786 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:48:55,032 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:48:55,114 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:48:55,115 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:48:55,115 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:48:56,585 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:49:08,171 - ProMonitor - INFO - 返回对话框输入的数据
+2013-09-23 20:49:08,177 - ProMonitor - DEBUG - 取得对话框的数据
+2013-09-23 20:49:08,177 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:49:08,180 - ProMonitor - DEBUG - 添加项目，递增得到唯一的kid
+2013-09-23 20:49:08,184 - ProMonitor - DEBUG - 转化为 json 数据：{
+  "1": {
+    "status": "", 
+    "name": "程序1", 
+    "runAs": 1, 
+    "note": "测试数据1", 
+    "programe": "logtest.exe", 
+    "processNum": 2, 
+    "kid": "1", 
+    "operator": "等于", 
+    "logfile": "", 
+    "monitor": true
+  }, 
+  "3": {
+    "status": "", 
+    "name": "程序3", 
+    "runAs": 1, 
+    "note": "测试数据3", 
+    "programe": "D:\\all_source\\python\\scape\\logtest.exe", 
+    "processNum": 2, 
+    "kid": "3", 
+    "operator": "等于", 
+    "logfile": "D:\\all_source\\python\\scape\\sdd.txt", 
+    "monitor": false
+  }, 
+  "2": {
+    "status": "", 
+    "name": "程序2", 
+    "runAs": 1, 
+    "note": "测试数据2", 
+    "programe": "C:\\Windows\\System32\\notepad.exe", 
+    "processNum": 1, 
+    "kid": "2", 
+    "operator": "大于或等于", 
+    "logfile": "demo\\demo.txt", 
+    "monitor": true
+  }, 
+  "5": {
+    "status": "", 
+    "name": "程序5", 
+    "runAs": 1, 
+    "note": "测试数据5", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "5", 
+    "operator": "等于", 
+    "logfile": "c:\\log5.log", 
+    "monitor": false
+  }, 
+  "4": {
+    "status": "", 
+    "name": "程序4", 
+    "runAs": 1, 
+    "note": "测试数据4", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "4", 
+    "operator": "等于", 
+    "logfile": "c:\\log4.log", 
+    "monitor": true
+  }, 
+  "6": {
+    "status": "", 
+    "name": "", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "", 
+    "programe": "F:\\backup\\Users\\avyou\\Desktop\\test.bat", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "", 
+    "kid": "6"
+  }
+}
+2013-09-23 20:49:08,184 - ProMonitor - INFO - 成功将数据写入文件
+2013-09-23 20:49:08,191 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:49:08,198 - ProMonitor - INFO - 编辑发生改变，检测进程数来确定进程状态。
+2013-09-23 20:49:08,203 - ProMonitor - DEBUG - 要处理的字典：{u'1': {u'status': u'', u'name': u'\u7a0b\u5e8f1', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e1', u'programe': u'logtest.exe', u'processNum': 2, u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'kid': u'1'}, u'3': {u'status': u'', u'name': u'\u7a0b\u5e8f3', u'runAs': 1, u'monitor': False, u'note': u'\u6d4b\u8bd5\u6570\u636e3', u'programe': u'D:\\all_source\\python\\scape\\logtest.exe', u'processNum': 2, u'operator': u'\u7b49\u4e8e', u'logfile': u'D:\\all_source\\python\\scape\\sdd.txt', u'kid': u'3'}, u'2': {u'status': u'', u'name': u'\u7a0b\u5e8f2', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e2', u'programe': u'C:\\Windows\\System32\\notepad.exe', u'processNum': 1, u'operator': u'\u5927\u4e8e\u6216\u7b49\u4e8e', u'logfile': u'demo\\demo.txt', u'kid': u'2'}, u'5': {u'status': u'', u'name': u'\u7a0b\u5e8f5', u'runAs': 1, u'monitor': False, u'note': u'\u6d4b\u8bd5\u6570\u636e5', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log5.log', u'kid': u'5'}, u'4': {u'status': u'', u'name': u'\u7a0b\u5e8f4', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e4', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log4.log', u'kid': u'4'}, u'6': {u'status': u'', u'name': u'', u'runAs': 1, u'note': u'', u'programe': u'F:\\backup\\Users\\avyou\\Desktop\\test.bat', u'processNum': 1, u'kid': u'6', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': False}}
+2013-09-23 20:49:08,203 - ProMonitor - INFO - logtest.exe的进程数: 2
+2013-09-23 20:49:08,210 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:49:08,293 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为False
+2013-09-23 20:49:08,293 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为空
+2013-09-23 20:49:08,293 - ProMonitor - INFO - notepad.exe的进程数: 1
+2013-09-23 20:49:08,299 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:49:08,381 - ProMonitor - DEBUG - 改为notepad.exe进程的状态为False
+2013-09-23 20:49:08,381 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为空
+2013-09-23 20:49:08,381 - ProMonitor - INFO - cmd4.exe的进程数: 1
+2013-09-23 20:49:08,388 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:49:08,470 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为False
+2013-09-23 20:49:08,470 - ProMonitor - DEBUG - 改为test.bat进程的状态为空
+2013-09-23 20:49:08,470 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:49:08,473 - ProMonitor - DEBUG - 刷新控件列表
+2013-09-23 20:49:15,112 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:49:15,220 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:49:15,303 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:49:15,552 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:49:15,634 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:49:15,635 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:49:15,637 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:49:35,730 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:49:35,818 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:49:36,061 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:49:36,141 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:49:36,144 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:49:36,144 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:49:56,259 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:49:56,342 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:49:56,598 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:49:56,681 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:49:56,683 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:49:56,684 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:50:16,809 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:50:16,897 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:50:17,217 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:50:17,299 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:50:17,301 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:50:17,302 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:50:23,615 - ProMonitor - INFO - 打开编辑对话框
+2013-09-23 20:50:23,618 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:23,622 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-09-23 20:50:23,622 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-09-23 20:50:27,244 - ProMonitor - INFO - 返回对话框输入的数据
+2013-09-23 20:50:27,250 - ProMonitor - DEBUG - 取得对话框的数据
+2013-09-23 20:50:27,250 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:27,256 - ProMonitor - DEBUG - 转化为 json 数据：{
+  "1": {
+    "status": "", 
+    "name": "程序1", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据1", 
+    "programe": "logtest.exe", 
+    "processNum": 2, 
+    "operator": "等于", 
+    "logfile": "", 
+    "kid": "1"
+  }, 
+  "3": {
+    "status": "", 
+    "name": "程序3", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "测试数据3", 
+    "programe": "D:\\all_source\\python\\scape\\logtest.exe", 
+    "processNum": 2, 
+    "operator": "等于", 
+    "logfile": "D:\\all_source\\python\\scape\\sdd.txt", 
+    "kid": "3"
+  }, 
+  "2": {
+    "status": "", 
+    "name": "程序2", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据2", 
+    "programe": "C:\\Windows\\System32\\notepad.exe", 
+    "processNum": 1, 
+    "operator": "大于或等于", 
+    "logfile": "demo\\demo.txt", 
+    "kid": "2"
+  }, 
+  "5": {
+    "status": "", 
+    "name": "程序5", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "测试数据5", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "c:\\log5.log", 
+    "kid": "5"
+  }, 
+  "4": {
+    "status": "", 
+    "name": "程序4", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据4", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "c:\\log4.log", 
+    "kid": "4"
+  }, 
+  "6": {
+    "status": "", 
+    "name": "bat", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "", 
+    "programe": "F:\\backup\\Users\\avyou\\Desktop\\test.bat", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "", 
+    "kid": "6"
+  }
+}
+2013-09-23 20:50:27,256 - ProMonitor - INFO - 成功将数据写入文件
+2013-09-23 20:50:27,263 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:27,270 - ProMonitor - INFO - 编辑发生改变，检测进程数来确定进程状态。
+2013-09-23 20:50:27,273 - ProMonitor - DEBUG - 要处理的字典：{u'1': {u'status': u'', u'name': u'\u7a0b\u5e8f1', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e1', u'programe': u'logtest.exe', u'processNum': 2, u'kid': u'1', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': True}, u'3': {u'status': u'', u'name': u'\u7a0b\u5e8f3', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e3', u'programe': u'D:\\all_source\\python\\scape\\logtest.exe', u'processNum': 2, u'kid': u'3', u'operator': u'\u7b49\u4e8e', u'logfile': u'D:\\all_source\\python\\scape\\sdd.txt', u'monitor': False}, u'2': {u'status': u'', u'name': u'\u7a0b\u5e8f2', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e2', u'programe': u'C:\\Windows\\System32\\notepad.exe', u'processNum': 1, u'kid': u'2', u'operator': u'\u5927\u4e8e\u6216\u7b49\u4e8e', u'logfile': u'demo\\demo.txt', u'monitor': True}, u'5': {u'status': u'', u'name': u'\u7a0b\u5e8f5', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e5', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'5', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log5.log', u'monitor': False}, u'4': {u'status': u'', u'name': u'\u7a0b\u5e8f4', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e4', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'4', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log4.log', u'monitor': True}, u'6': {u'status': u'', u'name': u'bat', u'runAs': 1, u'note': u'', u'programe': u'F:\\backup\\Users\\avyou\\Desktop\\test.bat', u'processNum': 1, u'kid': u'6', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': False}}
+2013-09-23 20:50:27,275 - ProMonitor - INFO - logtest.exe的进程数: 2
+2013-09-23 20:50:27,282 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:27,361 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为False
+2013-09-23 20:50:27,362 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为空
+2013-09-23 20:50:27,362 - ProMonitor - INFO - notepad.exe的进程数: 1
+2013-09-23 20:50:27,368 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:27,448 - ProMonitor - DEBUG - 改为notepad.exe进程的状态为False
+2013-09-23 20:50:27,448 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为空
+2013-09-23 20:50:27,448 - ProMonitor - INFO - cmd4.exe的进程数: 1
+2013-09-23 20:50:27,453 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:27,530 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为False
+2013-09-23 20:50:27,532 - ProMonitor - DEBUG - 改为test.bat进程的状态为空
+2013-09-23 20:50:27,532 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:50:27,533 - ProMonitor - DEBUG - 刷新控件列表
+2013-09-23 20:50:31,940 - ProMonitor - INFO - 打开编辑对话框
+2013-09-23 20:50:31,944 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:31,950 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-09-23 20:50:31,950 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-09-23 20:50:33,516 - ProMonitor - INFO - 返回对话框输入的数据
+2013-09-23 20:50:33,520 - ProMonitor - DEBUG - 取得对话框的数据
+2013-09-23 20:50:33,520 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:33,526 - ProMonitor - DEBUG - 转化为 json 数据：{
+  "1": {
+    "status": "", 
+    "name": "程序1", 
+    "runAs": 1, 
+    "note": "测试数据1", 
+    "programe": "logtest.exe", 
+    "processNum": 2, 
+    "kid": "1", 
+    "operator": "等于", 
+    "logfile": "", 
+    "monitor": true
+  }, 
+  "3": {
+    "status": "", 
+    "name": "程序3", 
+    "runAs": 1, 
+    "note": "测试数据3", 
+    "programe": "D:\\all_source\\python\\scape\\logtest.exe", 
+    "processNum": 2, 
+    "kid": "3", 
+    "operator": "等于", 
+    "logfile": "D:\\all_source\\python\\scape\\sdd.txt", 
+    "monitor": false
+  }, 
+  "2": {
+    "status": "", 
+    "name": "程序2", 
+    "runAs": 1, 
+    "note": "测试数据2", 
+    "programe": "C:\\Windows\\System32\\notepad.exe", 
+    "processNum": 1, 
+    "kid": "2", 
+    "operator": "大于或等于", 
+    "logfile": "demo\\demo.txt", 
+    "monitor": true
+  }, 
+  "5": {
+    "status": "", 
+    "name": "程序5", 
+    "runAs": 1, 
+    "note": "测试数据5", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "5", 
+    "operator": "等于", 
+    "logfile": "c:\\log5.log", 
+    "monitor": false
+  }, 
+  "4": {
+    "status": "", 
+    "name": "程序4", 
+    "runAs": 1, 
+    "note": "测试数据4", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "kid": "4", 
+    "operator": "等于", 
+    "logfile": "c:\\log4.log", 
+    "monitor": true
+  }, 
+  "6": {
+    "status": "", 
+    "name": "bat", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "", 
+    "programe": "F:\\backup\\Users\\avyou\\Desktop\\test.bat", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "", 
+    "kid": "6"
+  }
+}
+2013-09-23 20:50:33,528 - ProMonitor - INFO - 成功将数据写入文件
+2013-09-23 20:50:33,533 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:33,539 - ProMonitor - INFO - 编辑发生改变，检测进程数来确定进程状态。
+2013-09-23 20:50:33,543 - ProMonitor - DEBUG - 要处理的字典：{u'1': {u'status': u'', u'name': u'\u7a0b\u5e8f1', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e1', u'programe': u'logtest.exe', u'processNum': 2, u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'kid': u'1'}, u'3': {u'status': u'', u'name': u'\u7a0b\u5e8f3', u'runAs': 1, u'monitor': False, u'note': u'\u6d4b\u8bd5\u6570\u636e3', u'programe': u'D:\\all_source\\python\\scape\\logtest.exe', u'processNum': 2, u'operator': u'\u7b49\u4e8e', u'logfile': u'D:\\all_source\\python\\scape\\sdd.txt', u'kid': u'3'}, u'2': {u'status': u'', u'name': u'\u7a0b\u5e8f2', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e2', u'programe': u'C:\\Windows\\System32\\notepad.exe', u'processNum': 1, u'operator': u'\u5927\u4e8e\u6216\u7b49\u4e8e', u'logfile': u'demo\\demo.txt', u'kid': u'2'}, u'5': {u'status': u'', u'name': u'\u7a0b\u5e8f5', u'runAs': 1, u'monitor': False, u'note': u'\u6d4b\u8bd5\u6570\u636e5', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log5.log', u'kid': u'5'}, u'4': {u'status': u'', u'name': u'\u7a0b\u5e8f4', u'runAs': 1, u'monitor': True, u'note': u'\u6d4b\u8bd5\u6570\u636e4', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log4.log', u'kid': u'4'}, u'6': {u'status': u'', u'name': u'bat', u'runAs': 1, u'note': u'', u'programe': u'F:\\backup\\Users\\avyou\\Desktop\\test.bat', u'processNum': 1, u'kid': u'6', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': True}}
+2013-09-23 20:50:33,543 - ProMonitor - INFO - logtest.exe的进程数: 2
+2013-09-23 20:50:33,552 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:33,641 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为False
+2013-09-23 20:50:33,641 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为空
+2013-09-23 20:50:33,642 - ProMonitor - INFO - notepad.exe的进程数: 1
+2013-09-23 20:50:33,647 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:33,724 - ProMonitor - DEBUG - 改为notepad.exe进程的状态为False
+2013-09-23 20:50:33,726 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为空
+2013-09-23 20:50:33,726 - ProMonitor - INFO - cmd4.exe的进程数: 1
+2013-09-23 20:50:33,730 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:33,806 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为False
+2013-09-23 20:50:33,806 - ProMonitor - INFO - test.bat的进程数: 1
+2013-09-23 20:50:33,812 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-09-23 20:50:33,888 - ProMonitor - DEBUG - 改为test.bat进程的状态为False
+2013-09-23 20:50:33,888 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:50:33,890 - ProMonitor - DEBUG - 刷新控件列表
+2013-09-23 20:50:37,309 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:50:37,401 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:50:37,486 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:50:37,723 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:50:37,809 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:50:37,890 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:50:37,993 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:50:37,994 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:50:37,994 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:50:58,111 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:50:58,194 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:50:58,434 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:50:58,515 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:50:58,598 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:50:58,696 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:50:58,697 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:50:58,698 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:51:16,334 - ProMonitor - INFO - 打开增加对话框
+2013-09-23 20:51:18,795 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:51:18,878 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:51:19,115 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:51:19,197 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:51:19,279 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:51:19,375 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:51:19,377 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:51:19,378 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:51:39,463 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:51:39,548 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:51:39,788 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:51:39,868 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:51:39,950 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:51:40,048 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:51:40,049 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:51:40,049 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:52:00,165 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:52:00,253 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:52:00,499 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:52:00,582 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:52:00,665 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:52:00,765 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:52:00,766 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:52:00,767 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:52:18,517 - ProMonitor - INFO - 打开编辑对话框
+2013-09-23 20:52:18,520 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:52:18,523 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-09-23 20:52:18,525 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-09-23 20:52:20,869 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:52:20,957 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:52:21,204 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:52:21,288 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:52:21,371 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:52:21,470 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:52:21,471 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:52:21,473 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:52:41,569 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:52:41,653 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:52:41,905 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:52:41,990 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:52:42,075 - ProMonitor - WARNING - 未发现项目进程test.bat，启动进程test.bat
+2013-09-23 20:52:42,174 - ProMonitor - WARNING - 启动进程test.bat失败
+2013-09-23 20:52:42,176 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:52:42,176 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:52:47,181 - ProMonitor - INFO - 未选择删除项
+2013-09-23 20:52:50,430 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:52:51,298 - ProMonitor - WARNING - 删除数据项
+2013-09-23 20:52:51,302 - ProMonitor - DEBUG - 转化为 json 数据：{
+  "1": {
+    "status": "", 
+    "name": "程序1", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据1", 
+    "programe": "logtest.exe", 
+    "processNum": 2, 
+    "operator": "等于", 
+    "logfile": "", 
+    "kid": "1"
+  }, 
+  "3": {
+    "status": "", 
+    "name": "程序3", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "测试数据3", 
+    "programe": "D:\\all_source\\python\\scape\\logtest.exe", 
+    "processNum": 2, 
+    "operator": "等于", 
+    "logfile": "D:\\all_source\\python\\scape\\sdd.txt", 
+    "kid": "3"
+  }, 
+  "2": {
+    "status": "", 
+    "name": "程序2", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据2", 
+    "programe": "C:\\Windows\\System32\\notepad.exe", 
+    "processNum": 1, 
+    "operator": "大于或等于", 
+    "logfile": "demo\\demo.txt", 
+    "kid": "2"
+  }, 
+  "5": {
+    "status": "", 
+    "name": "程序5", 
+    "runAs": 1, 
+    "monitor": false, 
+    "note": "测试数据5", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "c:\\log5.log", 
+    "kid": "5"
+  }, 
+  "4": {
+    "status": "", 
+    "name": "程序4", 
+    "runAs": 1, 
+    "monitor": true, 
+    "note": "测试数据4", 
+    "programe": "c:\\cmd4.exe", 
+    "processNum": 1, 
+    "operator": "等于", 
+    "logfile": "c:\\log4.log", 
+    "kid": "4"
+  }
+}
+2013-09-23 20:52:51,303 - ProMonitor - INFO - 成功将数据写入文件
+2013-09-23 20:52:51,309 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:52:51,316 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:53:02,187 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-23 20:53:02,290 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:53:02,375 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:53:02,621 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:53:02,703 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:53:02,703 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:53:02,704 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-23 20:53:22,805 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-23 20:53:22,891 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-23 20:53:23,135 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-23 20:53:23,217 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-23 20:53:23,219 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-23 20:53:23,220 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:52:49,763 - ProMonitor - DEBUG - 加载日志功能函数
+2013-09-27 13:52:49,796 - ProMonitor - INFO - 加载下边框架面板
+2013-09-27 13:52:49,819 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-09-27 13:52:49,819 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-27 13:52:49,851 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:52:49,855 - ProMonitor - INFO - 加载消息控制台
+2013-09-27 13:52:49,855 - ProMonitor - WARNING - 初始化控制台
+2013-09-27 13:52:49,857 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-27 13:52:49,858 - ProMonitor - INFO - 加载日志控制面板
+2013-09-27 13:52:49,865 - ProMonitor - INFO - 加载菜单
+2013-09-27 13:52:49,869 - ProMonitor - INFO - 加载工具栏
+2013-09-27 13:52:49,948 - ProMonitor - INFO - 加载状态栏
+2013-09-27 13:52:49,954 - ProMonitor - INFO - 加载监控
+2013-09-27 13:52:50,118 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:52:50,210 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:52:50,286 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-09-27 13:52:50,461 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:52:50,536 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:52:50,538 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:52:50,538 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:53:10,644 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:53:10,720 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:53:10,960 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:53:11,032 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:53:11,035 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:53:11,035 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:53:17,694 - ProMonitor - INFO - 打开编辑对话框
+2013-09-27 13:53:17,698 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-27 13:53:17,703 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-09-27 13:53:17,703 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-09-27 13:53:31,164 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:53:31,242 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:53:31,467 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:53:31,543 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:53:31,546 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:53:31,546 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:53:51,632 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:53:51,711 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:53:51,937 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:53:52,013 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:53:52,015 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:53:52,016 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:54:12,155 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:54:12,232 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:54:12,454 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:54:12,529 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:54:12,532 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:54:12,532 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:54:32,634 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:54:32,711 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:54:32,934 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:54:33,009 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:54:33,012 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:54:33,013 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:54:53,131 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:54:53,207 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:54:53,434 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:54:53,509 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:54:53,510 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:54:53,512 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:55:06,798 - ProMonitor - INFO - 打开编辑对话框
+2013-09-27 13:55:06,802 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-09-27 13:55:06,808 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-09-27 13:55:06,808 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-09-27 13:55:13,415 - ProMonitor - INFO - 打开增加对话框
+2013-09-27 13:55:13,609 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:55:13,693 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:55:13,923 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:55:13,999 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:55:14,000 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:55:14,002 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:55:27,726 - ProMonitor - INFO - 未选取项目
+2013-09-27 13:55:29,269 - ProMonitor - INFO - 未选取项目
+2013-09-27 13:55:30,701 - ProMonitor - INFO - 未选取项目
+2013-09-27 13:55:34,108 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:55:34,187 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:55:34,411 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:55:34,487 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:55:34,490 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:55:34,490 - ProMonitor - INFO - 刷新并返回数据列表
+2013-09-27 13:55:54,592 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-09-27 13:55:54,670 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-09-27 13:55:54,897 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-09-27 13:55:54,973 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-09-27 13:55:54,976 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-09-27 13:55:54,976 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-07 19:42:06,970 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-07 19:42:06,999 - ProMonitor - INFO - 加载下边框架面板
+2013-10-07 19:42:07,069 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-07 19:42:07,071 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-07 19:42:07,151 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-07 19:42:07,177 - ProMonitor - INFO - 加载消息控制台
+2013-10-07 19:42:07,181 - ProMonitor - WARNING - 初始化控制台
+2013-10-07 19:42:07,183 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-07 19:42:07,186 - ProMonitor - INFO - 加载日志控制面板
+2013-10-07 19:42:07,203 - ProMonitor - INFO - 加载菜单
+2013-10-07 19:42:07,213 - ProMonitor - INFO - 加载工具栏
+2013-10-07 19:42:07,316 - ProMonitor - INFO - 加载状态栏
+2013-10-07 19:42:07,322 - ProMonitor - INFO - 加载监控
+2013-10-07 19:42:07,611 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-07 19:42:07,678 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-07 19:42:07,747 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-10-07 19:42:08,049 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-07 19:42:08,112 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-07 19:42:08,115 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-07 19:42:08,115 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-07 19:42:11,529 - ProMonitor - INFO - 打开编辑对话框
+2013-10-07 19:42:11,533 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-07 19:42:11,538 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-07 19:42:11,538 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-07 19:42:14,571 - ProMonitor - INFO - 打开编辑对话框
+2013-10-07 19:42:14,575 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-07 19:42:14,578 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-07 19:42:14,579 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-07 19:42:16,667 - ProMonitor - INFO - 打开增加对话框
+2013-10-07 19:42:28,197 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-07 19:42:28,259 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-07 19:42:28,438 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-07 19:42:28,499 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-07 19:42:28,500 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-07 19:42:28,502 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-07 19:42:31,546 - ProMonitor - INFO - 未选取项目进行编辑
+2013-10-07 19:42:33,454 - ProMonitor - INFO - 打开编辑对话框
+2013-10-07 19:42:33,457 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-07 19:42:33,463 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-07 19:42:33,463 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-08 17:06:27,486 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-08 17:06:27,516 - ProMonitor - INFO - 加载下边框架面板
+2013-10-08 17:06:27,539 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-08 17:06:27,540 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:27,555 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:06:27,562 - ProMonitor - INFO - 加载消息控制台
+2013-10-08 17:06:27,568 - ProMonitor - WARNING - 初始化控制台
+2013-10-08 17:06:27,569 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:27,571 - ProMonitor - INFO - 加载日志控制面板
+2013-10-08 17:06:27,588 - ProMonitor - INFO - 加载菜单
+2013-10-08 17:06:27,595 - ProMonitor - INFO - 加载工具栏
+2013-10-08 17:06:27,690 - ProMonitor - INFO - 加载状态栏
+2013-10-08 17:06:27,698 - ProMonitor - INFO - 加载监控
+2013-10-08 17:06:27,838 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:06:27,926 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:06:28,005 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-10-08 17:06:28,203 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:06:28,282 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:06:28,283 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:06:28,283 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:06:39,259 - ProMonitor - INFO - 打开编辑对话框
+2013-10-08 17:06:39,262 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:39,266 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-08 17:06:39,266 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-08 17:06:41,651 - ProMonitor - INFO - 打开编辑对话框
+2013-10-08 17:06:41,654 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:41,655 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-08 17:06:41,655 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-08 17:06:43,219 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:43,355 - ProMonitor - DEBUG - 获取logtest.exe进程数为 0
+2013-10-08 17:06:43,355 - ProMonitor - INFO - 启动进程logtest.exe
+2013-10-08 17:06:43,359 - ProMonitor - WARNING - 启动进程: logtest.exe失败
+2013-10-08 17:06:48,397 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:06:48,474 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:06:48,707 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:06:48,783 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:06:48,786 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:06:48,786 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:06:55,163 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:55,253 - ProMonitor - DEBUG - 获取logtest.exe进程数为 0
+2013-10-08 17:06:55,253 - ProMonitor - INFO - 启动进程logtest.exe
+2013-10-08 17:06:55,256 - ProMonitor - WARNING - 启动进程: logtest.exe失败
+2013-10-08 17:06:59,203 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:06:59,301 - ProMonitor - DEBUG - 获取logtest.exe进程数为 0
+2013-10-08 17:07:01,006 - ProMonitor - WARNING - 重启进程: logtest.exe
+2013-10-08 17:07:03,016 - ProMonitor - WARNING - 重启进程: logtest.exe失败
+2013-10-08 17:07:08,915 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:07:08,994 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:07:09,226 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:07:09,303 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:07:09,305 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:07:09,305 - ProMonitor - INFO - 编辑发生改变，检测进程数来确定进程状态。
+2013-10-08 17:07:09,308 - ProMonitor - DEBUG - 要处理的字典：{u'1': {u'status': False, u'name': u'\u7a0b\u5e8f1', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e1', u'programe': u'logtest.exe', u'processNum': 2, u'kid': u'1', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': True}, u'3': {u'status': '', u'name': u'\u7a0b\u5e8f3', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e3', u'programe': u'D:\\all_source\\python\\scape\\logtest.exe', u'processNum': 2, u'kid': u'3', u'operator': u'\u7b49\u4e8e', u'logfile': u'D:\\all_source\\python\\scape\\sdd.txt', u'monitor': False}, u'2': {u'status': True, u'name': u'\u7a0b\u5e8f2', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e2', u'programe': u'C:\\Windows\\System32\\notepad.exe', u'processNum': 1, u'kid': u'2', u'operator': u'\u5927\u4e8e\u6216\u7b49\u4e8e', u'logfile': u'demo\\demo.txt', u'monitor': True}, u'5': {u'status': '', u'name': u'\u7a0b\u5e8f5', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e5', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'5', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log5.log', u'monitor': False}, u'4': {u'status': False, u'name': u'\u7a0b\u5e8f4', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e4', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'4', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log4.log', u'monitor': True}}
+2013-10-08 17:07:09,308 - ProMonitor - INFO - logtest.exe的进程数: 2
+2013-10-08 17:07:09,312 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:09,384 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为False
+2013-10-08 17:07:09,384 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为空
+2013-10-08 17:07:09,384 - ProMonitor - INFO - notepad.exe的进程数: 1
+2013-10-08 17:07:09,388 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:09,463 - ProMonitor - DEBUG - 改为notepad.exe进程的状态为False
+2013-10-08 17:07:09,463 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为空
+2013-10-08 17:07:09,463 - ProMonitor - INFO - cmd4.exe的进程数: 1
+2013-10-08 17:07:09,467 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:09,542 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为False
+2013-10-08 17:07:09,542 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:07:15,019 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:07:15,153 - ProMonitor - DEBUG - 获取notepad.exe进程数为 1
+2013-10-08 17:07:16,046 - ProMonitor - INFO - 当前项目未运行，没有进程可结束
+2013-10-08 17:07:16,052 - ProMonitor - WARNING - 重启进程: notepad.exe
+2013-10-08 17:07:18,069 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:07:18,069 - ProMonitor - INFO - 编辑发生改变，检测进程数来确定进程状态。
+2013-10-08 17:07:18,073 - ProMonitor - DEBUG - 要处理的字典：{u'1': {u'status': u'', u'name': u'\u7a0b\u5e8f1', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e1', u'programe': u'logtest.exe', u'processNum': 2, u'kid': u'1', u'operator': u'\u7b49\u4e8e', u'logfile': u'', u'monitor': True}, u'3': {u'status': u'', u'name': u'\u7a0b\u5e8f3', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e3', u'programe': u'D:\\all_source\\python\\scape\\logtest.exe', u'processNum': 2, u'kid': u'3', u'operator': u'\u7b49\u4e8e', u'logfile': u'D:\\all_source\\python\\scape\\sdd.txt', u'monitor': False}, u'2': {u'status': True, u'name': u'\u7a0b\u5e8f2', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e2', u'programe': u'C:\\Windows\\System32\\notepad.exe', u'processNum': 1, u'kid': u'2', u'operator': u'\u5927\u4e8e\u6216\u7b49\u4e8e', u'logfile': u'demo\\demo.txt', u'monitor': True}, u'5': {u'status': u'', u'name': u'\u7a0b\u5e8f5', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e5', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'5', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log5.log', u'monitor': False}, u'4': {u'status': u'', u'name': u'\u7a0b\u5e8f4', u'runAs': 1, u'note': u'\u6d4b\u8bd5\u6570\u636e4', u'programe': u'c:\\cmd4.exe', u'processNum': 1, u'kid': u'4', u'operator': u'\u7b49\u4e8e', u'logfile': u'c:\\log4.log', u'monitor': True}}
+2013-10-08 17:07:18,075 - ProMonitor - INFO - logtest.exe的进程数: 2
+2013-10-08 17:07:18,084 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:18,176 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为False
+2013-10-08 17:07:18,177 - ProMonitor - DEBUG - 改为logtest.exe进程的状态为空
+2013-10-08 17:07:18,177 - ProMonitor - INFO - notepad.exe的进程数: 1
+2013-10-08 17:07:18,181 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:18,257 - ProMonitor - DEBUG - 改为notepad.exe进程的状态为False
+2013-10-08 17:07:18,257 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为空
+2013-10-08 17:07:18,257 - ProMonitor - INFO - cmd4.exe的进程数: 1
+2013-10-08 17:07:18,263 - ProMonitor - DEBUG - 检查进程列表得到进程数
+2013-10-08 17:07:18,339 - ProMonitor - DEBUG - 改为cmd4.exe进程的状态为False
+2013-10-08 17:07:18,341 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:07:29,753 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:07:29,831 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:07:30,059 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:07:30,140 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:07:30,142 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:07:30,142 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:07:50,273 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:07:50,369 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:07:50,650 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:07:50,726 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:07:50,727 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:07:50,729 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:08:10,884 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:08:10,973 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:08:11,201 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:08:11,279 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:08:11,280 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:08:11,280 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:08:31,372 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:08:31,448 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:08:31,674 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:08:31,752 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:08:31,753 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:08:31,753 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:08:51,852 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:08:51,930 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:08:52,161 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:08:52,236 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:08:52,236 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:08:52,237 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:09:12,355 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:09:12,436 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:09:12,661 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:09:12,736 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:09:12,737 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:09:12,739 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:09:32,851 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:09:32,927 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:09:33,160 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:09:33,236 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:09:33,239 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:09:33,239 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:09:53,345 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:09:53,437 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:09:53,665 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:09:53,742 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:09:53,743 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:09:53,743 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:10:13,842 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:10:13,921 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:10:14,154 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:10:14,230 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:10:14,232 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:10:14,232 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:10:34,332 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:10:34,410 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:10:34,635 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:10:34,711 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:10:34,713 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:10:34,713 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:10:54,812 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:10:54,888 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:10:55,109 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:10:55,187 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:10:55,187 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:10:55,188 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:11:15,312 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:11:15,395 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:11:15,624 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:11:15,700 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:11:15,701 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:11:15,703 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:11:35,796 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:11:35,880 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:11:36,128 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:11:36,210 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:11:36,210 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:11:36,211 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:11:56,322 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:11:56,403 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:11:56,631 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:11:56,709 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:11:56,710 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:11:56,710 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:12:16,812 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:12:16,898 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:12:17,127 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:12:17,203 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:12:17,204 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:12:17,204 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:12:37,335 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:12:37,417 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:12:37,647 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:12:37,723 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:12:37,724 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:12:37,724 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:12:57,832 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:12:57,915 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:12:58,148 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:12:58,226 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:12:58,227 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:12:58,229 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:13:18,382 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:13:18,476 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:13:18,704 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:13:18,782 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:13:18,783 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:13:18,783 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:13:38,891 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:13:38,967 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:13:39,190 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:13:39,265 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:13:39,266 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:13:39,266 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-08 17:13:53,315 - ProMonitor - INFO - 未选取项目进行编辑
+2013-10-08 17:13:55,017 - ProMonitor - INFO - 打开编辑对话框
+2013-10-08 17:13:55,019 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-08 17:13:55,023 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-08 17:13:55,023 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-08 17:13:59,375 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-08 17:13:59,454 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-08 17:13:59,691 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-08 17:13:59,769 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-08 17:13:59,770 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-08 17:13:59,770 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:35:58,789 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-12 17:35:58,834 - ProMonitor - INFO - 加载下边框架面板
+2013-10-12 17:35:58,894 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-12 17:35:58,894 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:35:58,959 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:35:58,970 - ProMonitor - INFO - 加载消息控制台
+2013-10-12 17:35:58,974 - ProMonitor - WARNING - 初始化控制台
+2013-10-12 17:35:58,976 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:35:58,979 - ProMonitor - INFO - 加载日志控制面板
+2013-10-12 17:35:59,000 - ProMonitor - INFO - 加载菜单
+2013-10-12 17:35:59,013 - ProMonitor - INFO - 加载工具栏
+2013-10-12 17:35:59,142 - ProMonitor - INFO - 加载状态栏
+2013-10-12 17:35:59,154 - ProMonitor - INFO - 加载监控
+2013-10-12 17:35:59,345 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:35:59,434 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:35:59,660 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:35:59,737 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:35:59,739 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:35:59,740 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:36:08,842 - ProMonitor - INFO - 打开编辑对话框
+2013-10-12 17:36:08,845 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:36:08,848 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-12 17:36:08,849 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-12 17:36:10,753 - ProMonitor - INFO - 打开编辑对话框
+2013-10-12 17:36:10,756 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:36:10,759 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-12 17:36:10,759 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-12 17:36:14,961 - ProMonitor - INFO - 打开编辑对话框
+2013-10-12 17:36:14,964 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:36:14,970 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-12 17:36:14,970 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-12 17:36:17,233 - ProMonitor - INFO - 打开编辑对话框
+2013-10-12 17:36:17,236 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:36:17,242 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-12 17:36:17,243 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-12 17:36:20,006 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:36:20,085 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:36:20,305 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:36:20,381 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:36:20,384 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:36:20,384 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:36:40,483 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:36:40,559 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:36:40,780 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:36:40,857 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:36:40,858 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:36:40,859 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:37:00,983 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:37:01,059 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:37:01,280 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:37:01,357 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:37:01,358 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:37:01,358 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:37:07,121 - ProMonitor - INFO - 打开设置面板
+2013-10-12 17:37:21,483 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:37:21,559 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:37:21,786 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:37:21,859 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:37:21,861 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:37:21,862 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:37:26,650 - ProMonitor - INFO - 打开日志文件logs\pro_monitor.log
+2013-10-12 17:37:41,947 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:37:42,026 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:37:42,247 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:37:42,323 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:37:42,325 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:37:42,326 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:38:02,454 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:38:02,529 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:38:02,746 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:38:02,821 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:38:02,822 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:38:02,822 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:38:22,926 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:38:23,000 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:38:23,217 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:38:23,292 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:38:23,293 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:38:23,293 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-12 17:38:34,298 - ProMonitor - INFO - 打开编辑对话框
+2013-10-12 17:38:34,302 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-12 17:38:34,305 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-12 17:38:34,306 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-12 17:38:43,391 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-12 17:38:43,467 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-12 17:38:43,686 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-12 17:38:43,759 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-12 17:38:43,760 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-12 17:38:43,762 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:31:37,487 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-14 23:31:37,542 - ProMonitor - INFO - 加载下边框架面板
+2013-10-14 23:31:37,556 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-14 23:31:37,556 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-14 23:31:37,615 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:31:37,619 - ProMonitor - INFO - 加载消息控制台
+2013-10-14 23:31:37,621 - ProMonitor - WARNING - 初始化控制台
+2013-10-14 23:31:37,621 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-14 23:31:37,622 - ProMonitor - INFO - 加载日志控制面板
+2013-10-14 23:31:37,635 - ProMonitor - INFO - 加载菜单
+2013-10-14 23:31:37,641 - ProMonitor - INFO - 加载工具栏
+2013-10-14 23:31:37,959 - ProMonitor - INFO - 加载状态栏
+2013-10-14 23:31:37,963 - ProMonitor - INFO - 加载监控
+2013-10-14 23:31:38,246 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:31:38,341 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:31:38,625 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:31:38,706 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:31:38,707 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:31:38,707 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:31:47,950 - ProMonitor - INFO - 打开增加对话框
+2013-10-14 23:31:50,903 - ProMonitor - INFO - 打开设置面板
+2013-10-14 23:31:58,664 - ProMonitor - INFO - 打开设置面板
+2013-10-14 23:31:58,799 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:31:58,881 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:31:59,118 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:31:59,200 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:31:59,201 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:31:59,203 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:32:19,288 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:32:19,371 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:32:19,611 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:32:19,688 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:32:19,690 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:32:19,691 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:32:39,788 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:32:39,868 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:32:40,108 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:32:40,190 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:32:40,191 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:32:40,191 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:33:00,289 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:33:00,368 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:33:00,599 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:33:00,676 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:33:00,677 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:33:00,677 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:33:16,673 - ProMonitor - INFO - 打开设置面板
+2013-10-14 23:33:20,788 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-14 23:33:20,872 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-14 23:33:21,108 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-14 23:33:21,187 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-14 23:33:21,190 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-14 23:33:21,190 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-14 23:33:33,424 - ProMonitor - INFO - 打开设置面板
+2013-10-16 14:41:49,648 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-16 14:41:49,686 - ProMonitor - INFO - 加载下边框架面板
+2013-10-16 14:41:49,721 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-16 14:41:49,723 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-16 14:41:49,750 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:41:49,756 - ProMonitor - INFO - 加载消息控制台
+2013-10-16 14:41:49,757 - ProMonitor - WARNING - 初始化控制台
+2013-10-16 14:41:49,757 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-16 14:41:49,759 - ProMonitor - INFO - 加载日志控制面板
+2013-10-16 14:41:49,772 - ProMonitor - INFO - 加载菜单
+2013-10-16 14:41:49,779 - ProMonitor - INFO - 加载工具栏
+2013-10-16 14:41:49,901 - ProMonitor - INFO - 加载状态栏
+2013-10-16 14:41:49,911 - ProMonitor - INFO - 加载监控
+2013-10-16 14:41:50,109 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:41:50,221 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:41:50,312 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-10-16 14:41:50,553 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:41:50,650 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:41:50,651 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:41:50,651 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:42:01,282 - ProMonitor - INFO - 打开设置面板
+2013-10-16 14:42:10,769 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:42:10,862 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:42:10,956 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-10-16 14:42:11,160 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:42:11,257 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:42:11,257 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:42:11,259 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:42:31,351 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:42:31,450 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:42:31,739 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:42:31,834 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:42:31,836 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:42:31,838 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:42:51,960 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:42:52,059 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:42:52,341 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:42:52,433 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:42:52,436 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:42:52,436 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:43:12,558 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:43:12,651 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:43:12,931 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:43:13,026 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:43:13,028 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:43:13,028 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:43:33,161 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:43:33,259 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:43:33,532 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:43:33,625 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:43:33,628 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:43:33,628 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:43:53,812 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:43:53,905 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:43:54,181 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:43:54,275 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:43:54,276 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:43:54,278 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:44:14,387 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:44:14,483 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:44:14,762 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:44:14,857 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:44:14,858 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:44:14,859 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:44:34,992 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:44:35,086 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:44:35,362 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:44:35,454 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:44:35,457 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:44:35,457 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:44:55,607 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:44:55,700 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:44:55,969 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:44:56,062 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:44:56,065 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:44:56,065 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:45:16,168 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:45:16,265 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:45:16,533 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:45:16,625 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:45:16,627 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:45:16,628 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:45:36,740 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:45:36,838 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:45:37,117 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:45:37,211 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:45:37,213 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:45:37,214 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:45:57,362 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:45:57,487 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:45:57,839 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:45:57,959 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:45:57,960 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:45:57,960 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-16 14:46:18,114 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-16 14:46:18,230 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-16 14:46:18,582 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-16 14:46:18,698 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-16 14:46:18,698 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-16 14:46:18,700 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:43:14,323 - ProMonitor - DEBUG - 加载日志功能函数
+2013-10-22 02:43:14,359 - ProMonitor - INFO - 加载下边框架面板
+2013-10-22 02:43:14,411 - ProMonitor - INFO - 加载控件列表，初始化数据
+2013-10-22 02:43:14,411 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-22 02:43:14,461 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:43:14,467 - ProMonitor - INFO - 加载消息控制台
+2013-10-22 02:43:14,471 - ProMonitor - WARNING - 初始化控制台
+2013-10-22 02:43:14,473 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-22 02:43:14,473 - ProMonitor - INFO - 加载日志控制面板
+2013-10-22 02:43:14,490 - ProMonitor - INFO - 加载菜单
+2013-10-22 02:43:14,510 - ProMonitor - INFO - 加载工具栏
+2013-10-22 02:43:14,585 - ProMonitor - INFO - 加载状态栏
+2013-10-22 02:43:14,589 - ProMonitor - INFO - 加载监控
+2013-10-22 02:43:14,813 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:43:14,940 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:43:15,046 - ProMonitor - WARNING - 未发现项目进程notepad.exe，启动进程notepad.exe
+2013-10-22 02:43:15,354 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:43:15,464 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:43:15,466 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:43:15,467 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:43:35,602 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:43:35,711 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:43:36,023 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:43:36,125 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:43:36,127 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:43:36,128 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:43:56,286 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:43:56,390 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:43:56,707 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:43:56,811 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:43:56,813 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:43:56,813 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:44:16,951 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:44:17,058 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:44:17,367 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:44:17,469 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:44:17,471 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:44:17,471 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:44:37,611 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:44:37,727 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:44:38,062 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:44:38,171 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:44:38,174 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:44:38,174 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:44:58,313 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:44:58,427 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:44:58,756 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:44:58,865 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:44:58,867 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:44:58,867 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:45:19,017 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:45:19,132 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:45:19,456 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:45:19,565 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:45:19,568 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:45:19,569 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:45:39,698 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:45:39,809 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:45:40,132 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:45:40,240 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:45:40,243 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:45:40,243 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:45:47,911 - ProMonitor - INFO - 打开增加对话框
+2013-10-22 02:46:00,371 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:46:00,486 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:46:00,796 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:46:00,898 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:46:00,900 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:46:00,901 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:46:09,022 - ProMonitor - INFO - 打开编辑对话框
+2013-10-22 02:46:09,026 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-22 02:46:09,030 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-22 02:46:09,030 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-22 02:46:21,029 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:46:21,131 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:46:21,430 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:46:21,526 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:46:21,529 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:46:21,529 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:46:41,651 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:46:41,759 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:46:42,063 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:46:42,158 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:46:42,161 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:46:42,161 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:46:48,776 - ProMonitor - INFO - 未选取项目进行编辑
+2013-10-22 02:46:50,502 - ProMonitor - INFO - 打开编辑对话框
+2013-10-22 02:46:50,503 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-22 02:46:50,506 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-22 02:46:50,507 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框
+2013-10-22 02:47:02,301 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:47:02,420 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:47:02,734 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:47:02,838 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:47:02,842 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:47:02,842 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:47:04,299 - ProMonitor - INFO - 打开设置面板
+2013-10-22 02:47:22,977 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:47:23,078 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:47:23,368 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:47:23,470 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:47:23,473 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:47:23,473 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:47:43,585 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:47:43,684 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:47:43,973 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:47:44,069 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:47:44,071 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:47:44,071 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:48:04,170 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:48:04,267 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:48:04,556 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:48:04,651 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:48:04,651 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:48:04,653 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:48:24,790 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:48:24,898 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:48:25,207 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:48:25,309 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:48:25,311 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:48:25,311 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:48:45,441 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:48:45,549 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:48:45,857 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:48:45,960 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:48:45,960 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:48:45,961 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:49:06,095 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:49:06,201 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:49:06,512 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:49:06,615 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:49:06,617 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:49:06,618 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:49:26,733 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:49:26,842 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:49:27,153 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:49:27,256 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:49:27,257 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:49:27,257 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:49:47,380 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:49:47,513 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:49:47,884 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:49:47,996 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:49:47,996 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:49:47,997 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:50:08,134 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:50:08,244 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:50:08,588 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:50:08,690 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:50:08,690 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:50:08,690 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:50:28,829 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:50:28,936 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:50:29,253 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:50:29,361 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:50:29,361 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:50:29,362 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:50:49,476 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:50:49,592 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:50:49,911 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:50:50,009 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:50:50,009 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:50:50,010 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:51:10,130 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:51:10,230 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:51:10,517 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:51:10,614 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:51:10,615 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:51:10,615 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:51:30,727 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:51:30,825 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:51:31,108 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:51:31,203 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:51:31,203 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:51:31,204 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:51:51,321 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:51:51,421 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:51:51,701 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:51:51,798 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:51:51,799 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:51:51,799 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:52:11,911 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:52:12,005 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:52:12,282 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:52:12,375 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:52:12,375 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:52:12,375 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:52:32,487 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:52:32,588 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:52:32,871 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:52:32,964 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:52:32,966 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:52:32,967 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:52:53,086 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:52:53,197 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:52:53,559 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:52:53,686 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:52:53,686 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:52:53,687 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:53:13,805 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:53:13,907 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:53:14,210 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:53:14,308 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:53:14,309 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:53:14,309 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:53:34,431 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:53:34,532 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:53:34,832 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:53:34,928 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:53:34,930 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:53:34,930 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:53:55,049 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:53:55,150 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:53:55,447 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:53:55,546 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:53:55,548 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:53:55,548 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:54:15,673 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:54:15,780 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:54:16,078 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:54:16,174 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:54:16,176 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:54:16,176 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:54:36,299 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:54:36,401 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:54:36,696 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:54:36,796 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:54:36,796 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:54:36,798 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:54:56,911 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:54:57,016 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:54:57,318 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:54:57,414 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:54:57,414 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:54:57,415 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:55:17,549 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:55:17,651 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:55:17,947 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:55:18,045 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:55:18,045 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:55:18,046 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:55:38,165 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:55:38,269 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:55:38,568 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:55:38,667 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:55:38,667 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:55:38,667 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:55:58,776 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:55:58,878 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:55:59,178 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:55:59,289 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:55:59,289 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:55:59,290 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:56:19,417 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:56:19,525 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:56:19,826 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:56:19,928 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:56:19,930 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:56:19,930 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:56:40,055 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:56:40,163 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:56:40,467 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:56:40,571 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:56:40,573 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:56:40,573 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:57:00,684 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:57:00,786 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:57:01,085 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:57:01,186 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:57:01,187 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:57:01,188 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:57:21,313 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:57:21,418 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:57:21,717 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:57:21,818 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:57:21,821 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:57:21,822 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:57:41,964 - ProMonitor - WARNING - 未发现项目进程logtest.exe，启动进程logtest.exe
+2013-10-22 02:57:42,072 - ProMonitor - WARNING - 启动进程logtest.exe失败
+2013-10-22 02:57:42,375 - ProMonitor - WARNING - 未发现项目进程cmd4.exe，启动进程cmd4.exe
+2013-10-22 02:57:42,480 - ProMonitor - WARNING - 启动进程cmd4.exe失败
+2013-10-22 02:57:42,483 - ProMonitor - DEBUG - 从内存中的获取数据字典
+2013-10-22 02:57:42,483 - ProMonitor - INFO - 刷新并返回数据列表
+2013-10-22 02:57:43,318 - ProMonitor - INFO - 打开编辑对话框
+2013-10-22 02:57:43,322 - ProMonitor - INFO - 读取数据文件，返回数据字典.
+2013-10-22 02:57:43,328 - ProMonitor - DEBUG - 获取对应项目的数据内容
+2013-10-22 02:57:43,328 - ProMonitor - DEBUG - 将取得项目的数据内容设定到编辑对话框

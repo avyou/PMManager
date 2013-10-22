@@ -29,7 +29,7 @@ class InputValidator(wx.PyValidator):# 创建验证器子类
              textCtrl.SetFocus()
              textCtrl.Refresh()
              return False
-         elif self.flag == "fpath_t" and not text.upper().endswith(".EXE"):
+         elif self.flag == "fpath_t" and not (text.upper().endswith(".EXE") or text.upper().endswith(".BAT")) :
              wx.MessageBox(u"输入的程序路径必须为可执行文件",u"错误",wx.OK | wx.ICON_ERROR)
              textCtrl.SetBackgroundColour("pink")
              textCtrl.SetFocus()

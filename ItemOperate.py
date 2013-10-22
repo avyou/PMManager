@@ -28,7 +28,7 @@ class AddProgramDialog(wx.Dialog):
         self.runAsRadio.SetSelection(1)
 
         #文本框，使用验证器
-        self.name_t  = wx.TextCtrl(self,size=(210,22),       )
+        self.name_t  = wx.TextCtrl(self,size=(210,22), validator=InputValidator("name_t")      )
         self.fpath_t = wx.TextCtrl(self,size=(210,22), validator=InputValidator("fpath_t"))
         self.logpath_t = wx.TextCtrl(self,size=(210,22))
         #self.logpath_t = wx.TextCtrl(self,size=(210,22), validator=InputValidator("logpath_t"))
@@ -103,7 +103,7 @@ class AddProgramDialog(wx.Dialog):
     ##选择可执行文件对话框事件函数
     def OnExeSelectFile(self,event):
         wildcard = "Executable file (*.exe)|*.exe"
-                    #"All files (*.*)|*.*"
+                    #"Batch program (*.bat)|*.bat"
         dialog = wx.FileDialog(self, u"选择文件", os.getcwd(), "", wildcard, wx.OPEN)
         if dialog.ShowModal() == wx.ID_OK:
             fpath =  dialog.GetPath()
