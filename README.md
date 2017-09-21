@@ -25,7 +25,7 @@ PMManager
 二进制包下载：http://pan.baidu.com/share/link?shareid=1337745319&uk=654434961
 
 
-作者：avyou
+作者：赵子发
 
 联系：avyou55@gmail.com 
 
