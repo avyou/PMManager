@@ -30,8 +30,7 @@ PMManager
 联系：avyou55@gmail.com 
 
 程序主界面：
-![Alt text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/main.jpg)
-![Image text](http://github.com/avyou/PMManager/raw/master/doc/doc_img/main.jpg)
+![Alt text](https://github.com/avyou/PMManager/blob/master/doc/doc_img/main.jpg)
 
 这是我学python半年来写的第二个小程序，现在把源码拿出来与大家分享。
 
